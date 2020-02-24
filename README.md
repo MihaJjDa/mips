@@ -1,1 +1,3 @@
-# mips
+# MIPS
+
+Learning Mips architecture
